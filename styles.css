@@ -72,10 +72,11 @@ html, body {
 }
 
 .content-sect {
-    margin: auto;
+    margin: 1em;
 }
 
 .container {
+    margin: 0 auto;
     padding: 0 1.5em;
 }
 
@@ -92,6 +93,8 @@ html, body {
     border-radius: 10%;
     height: 700px;
     width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .main-foot {
