@@ -52,7 +52,7 @@ html, body {
 
 .main-header {
     background-color: rgba(0, 0, 0, .6);
-    background-image: url("images/header.jpg");
+    background-image: url("images/imghome10.jpg");
     background-size: cover;
     padding-bottom: 30px;
 
@@ -91,7 +91,7 @@ html, body {
     display: block;
     border-radius: 10%;
     height: 700px;
-    width: 700px;
+    width: 800px;
 }
 
 .main-foot {
