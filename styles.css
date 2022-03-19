@@ -72,7 +72,7 @@ html, body {
 }
 
 .content-sect {
-    margin: auto auto;
+    margin: 0.5em;
 }
 
 .container {
@@ -90,6 +90,8 @@ html, body {
 .about-img {
     display: block;
     border-radius: 10%;
+    height 700;
+    width 700;
 }
 
 .main-foot {
