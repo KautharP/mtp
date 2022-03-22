@@ -353,3 +353,6 @@ html, body {
 .text-0{
     font-size: 1.5em;
 }
+
+.badge-base{
+    align-items: center;
