@@ -367,3 +367,7 @@ html, body {
 .badge-base{
     align-items: center;
     margin: 0 auto;
+}
+
+.content-0{
+    text-align: left;
